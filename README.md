@@ -2,7 +2,7 @@
 
 Este projeto é um Sistema Bancário, desenvolvido no âmbito do Bootcamp de Engenharia de Dados com Python da DIO - NTT DATA, com o objetivo de implementar três operações bancárias essenciais: Depósito, Saque e Extrato. O sistema foi projetado com foco na simplicidade, permitindo que o usuário realize operações básicas em uma conta bancária. Além de consolidar o conhecimento em Python, o projeto "Criando um Sistema Bancário com Python" proporciona uma experiência prática no desenvolvimento de software financeiro. Os participantes são desafiados a construir um sistema completo, abordando desde a criação de contas e execução de transações até aspectos de segurança, oferecendo uma oportunidade de aprimorar as habilidades de programação em Python e obter uma compreensão mais profunda de conceitos financeiros e segurança.
 
-
+![Demonstração do Sistema Bancario](https://github.com/SamilMoret/sistema_bancario/blob/main/sistema__bancario_vi.gif)
 
 ## 🚀 Funcionalidades
 
